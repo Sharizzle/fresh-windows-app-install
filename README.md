@@ -12,46 +12,45 @@
   </p>
 </p>
 
-
-
 <!-- TABLE OF CONTENTS -->
+
 ## Table of Contents
 
-* [About the Project](#about)
-* [Installation](#installation)
-  * [Using Git](#git)
-  * [Manual Install](#manual)
-* [Running the Script](#running)
-* [Editing App Packs](#editing)
-* [Adding Packages](#adding)
-* [Updating Apps](#updating)
-  * [Using Regular Script](#regular-script)
-  * [Using CMD Command](#cmd-update)
-* [Contributing](#contributing)
-* [License](#license)
-* [Contact Me](#contact)
-
-
+- [About the Project](#about)
+- [Installation](#installation)
+  - [Using Git](#git)
+  - [Manual Install](#manual)
+- [Running the Script](#running)
+- [Editing App Packs](#editing)
+- [Adding Packages](#adding)
+- [Updating Apps](#updating)
+  - [Using Regular Script](#regular-script)
+  - [Using CMD Command](#cmd-update)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact Me](#contact)
 
 <!-- ABOUT THE PROJECT -->
+
 ## About The Project <span id="about"></span>
+
 A script that installs and utilizes chocolatey to install different application packs without the hassle of finding each individual package name. Customizable list and upgrade feature for easy upgrade of all packages.
 
-
-
 <!-- GETTING STARTED -->
+
 ## Installation <span id="installation"></span>
 
 To get a local copy up and running follow these simple steps.
 
-
 #### Installation Using Git <span id="git"></span>
+
 ```sh
 git clone https://github.com/sharizzle/fresh-windows-app-install.git
 ```
+
 #### Manual install <span id="manual"></span>
 
-[Click Here to Download Zip File](https://github.com/Sharizzle/urql-state-management/archive/master.zip)
+[Click Here to Download Zip File](https://github.com/Sharizzle/fresh-windows-app-install/archive/master.zip)
 
 ## Running the Script <span id="running"></span>
 
@@ -73,10 +72,9 @@ For example, to delete VLC delete the following line:
 
 ## Adding Packages <span id="adding"></span>
 
-To add a package, visit [chocolatey package search](https://chocolatey.org/packages) and look for a package and add it as a package line. 
+To add a package, visit [chocolatey package search](https://chocolatey.org/packages) and look for a package and add it as a package line.
 
 For example, to add gimp to a specific pack:
-
 
 ```sh
 <package id="gimp" />
@@ -102,8 +100,8 @@ Select option `9` in the option window to update all the apps.
 choco upgrade all
 ```
 
-
 <!-- CONTRIBUTING -->
+
 ## Contributing <span id="contributing"></span>
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -114,19 +112,17 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-
-
 <!-- LICENSE -->
+
 ## License <span id="license"></span>
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-
-
 <!-- CONTACT -->
+
 ## Contact Me <span id="contact"></span>
 
-* [Github](https://github.com/Sharizzle)
-* [Website](https://sharif.thekanaan.com/)
-* [Email](sharif@thekanaan.com)
-* [Linkedin](https://www.linkedin.com/in/SharifKanaan/)
+- [Github](https://github.com/Sharizzle)
+- [Website](https://sharif.thekanaan.com/)
+- [Email](sharif@thekanaan.com)
+- [Linkedin](https://www.linkedin.com/in/SharifKanaan/)
