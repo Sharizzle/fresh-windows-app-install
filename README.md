@@ -28,7 +28,9 @@
   - [Using CMD Command](#cmd-update)
 - [Contributing](#contributing)
 - [License](#license)
+- [General Considerations](#considerations)
 - [Contact Me](#contact)
+
 
 <!-- ABOUT THE PROJECT -->
 
@@ -118,6 +120,22 @@ Contributions are what make the open source community such an amazing place to b
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
+<!-- CONSIDERATIONS -->
+
+## Considerations <span id="considerations"></span>
+
+These are applications that are not available through chocolatey that can be useful on a fresh install.
+
+- Office Suite (Microsoft Office or Libre Office)
+- Adobe Suite
+- Productivity and Time Management Apps (To Do Apps, calenders, etc.)
+- Profession specific applications (Engineering Software, Financial Tools etc.)
+- Commonly used Progressive Web Apps (PWA)
+- Password Managers
+- Virtual Machine ISOs
+- Preferred Antivirus Software
+- Company Specific / Proprietary Software
+
 <!-- CONTACT -->
 
 ## Contact Me <span id="contact"></span>
@@ -126,3 +144,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 - [Website](https://sharif.thekanaan.com/)
 - [Email](sharif@thekanaan.com)
 - [Linkedin](https://www.linkedin.com/in/SharifKanaan/)
+
+
